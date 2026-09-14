@@ -30,8 +30,12 @@ function AboutCard() {
             <span className="purple">Daffodil International University</span>.
             <br />
             Supply chain management is my passion. I have a strong interest in logistics, procurement, and operations management. I am always eager to learn and explore new technologies and trends in the field of supply chain management.
+            <br />
+            <br />
+            <strong className="purple">Extracurricular Activities & Achievements :{" "}</strong>
+            Managed the DIU Air Rover Scout Group across the 8th–10th Oath Camps & Mate Course. Volunteered at Income Tax Fair (2017, 2018) and NFE Career Expo 2018. Won 3rd Prize in the Swarakalpan Abrittichakra recitation competition (2019).
           </p>
-
+          <br />
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games 🎮

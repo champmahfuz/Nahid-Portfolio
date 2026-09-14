@@ -53,7 +53,7 @@ function NavBar() {
               backgroundClip: "text",
             }}
           >
-            NH
+            NAHID
           </span>
         </Navbar.Brand>
         <Navbar.Toggle
